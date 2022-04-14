@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @W1shm4st3r
 - 👀 I’m interested in economics, data analysis and programming obviously.
-- 🌱 I’m currently learning Python3 and I'm going to learn JavaScript in the future.
-- 💞️ I’m looking to collaborate on some interesting projects once my programming courses will be completed.
-- 📫 For now I'm not looking for any contact, but I'm sure that will change soon.
+- 🌱 I’m currently learning Java, Python3 and SQL.
