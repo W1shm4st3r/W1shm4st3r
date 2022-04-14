@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @W1shm4st3r
-- 👀 I’m interested in economics, data analysis and programming obviously.
+- 👀 I’m interested in data science and software development and economics.
 - 🌱 I’m currently learning Java, Python3 and SQL.
