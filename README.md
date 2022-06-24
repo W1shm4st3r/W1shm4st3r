@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @W1shm4st3r
-- 👀 I’m interested in data science, software development, mathematics and economics.
-- 🌱 I’m currently learning Java, Python3, SQL, data science and machine learning.
-- 💞️ I'm currently not looking to collaborate.
+- 👀 I’m interested in software development, data science, mathematics and economics.
+- 🌱 In my coding practice I use Java, Spring, Spring Boot, MySQL, PostgreSQL. I'm also familiar with Python3 and basics of C++.
 - 📫 How to reach me: filip.ros700@gmail.com
