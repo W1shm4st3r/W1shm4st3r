@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @W1shm4st3r
 - 👀 I’m interested in software development, data science, mathematics and economics.
 - 🌱 In my coding practice I use Java, Spring, Spring Boot, MySQL, PostgreSQL. I'm also familiar with Python3 and basics of C++.
-- 📫 How to reach me: filip.ros700@gmail.com
+- 📫 How to reach me: filip.ros700@gmail.com, https://www.linkedin.com/in/filip-roszkowski-834218214/
